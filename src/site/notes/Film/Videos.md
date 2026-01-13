@@ -10,7 +10,6 @@
 ---
 
 **相关链接**：
-- [[TodayRead/TodayRead\|TodayRead]] - 今日阅读
 - [[Book/Book\|Book]] - 读书记录
 - [[Music/Music\|Music]] - 音乐记录
 - [[Excerpt/Excerpt\|Excerpt]] - 摘录集

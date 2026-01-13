@@ -16,7 +16,7 @@
 ---
 
 **相关链接**：
-- [[TodayRead/TodayRead\|TodayRead]] - 今日阅读
+- [[TodayRead\|TodayRead]] - 今日阅读
 - [[Book/Book\|Book]] - 读书记录
 - [[Music/Music\|Music]] - 音乐记录
 - [[Film/Videos\|Videos]] - 影视记录
